@@ -4,6 +4,7 @@
 
 const client = require('mongodb').MongoClient;
 
+
 /**
  * @private
  * @type {Db}
